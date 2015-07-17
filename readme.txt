@@ -1,8 +1,7 @@
-This is just a demo! i am working on any improvements would be great,
 
+Working Eccomerce example PHP MySQL Development!
 
-Working Eccomerce sample not real 
-products check out included but not configured for PayPall
+Product check out included but not configured for PayPall
 inclusion would be easy enougth. You would just need to contact your 
 bank manager. Products are not real so dont
 enter your proper credit card details enter dummy ones.
@@ -20,10 +19,10 @@ if it infringes any rules for repository inclusion let me know.And i will amend.
 author Ian Hyndman. my email admin@splintercellpro.com
 My Host server details are: 
 PHP MySQL using Localhost 
-via UNIX socket Server type: MySQL Server version: 5.5.40-cll – 
+via UNIX socket Server type: MySQL Server version: 5.5.40-cll â€“ 
 MySQL Community Server (GPL) Protocol version: 10 User:
 splinter@localhost Server charset: UTF-8 Unicode (utf8) 
 Web server cpsrvd 11.46.3.6 
-Database client version: libmysql – 5.1.73 PHP extension: mysqli
+Database client version: libmysql â€“ 5.1.73 PHP extension: mysqli
 
 
