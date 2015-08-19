@@ -1,10 +1,16 @@
+PHP MySQL & Microsoft Access   
 
-Working Eccomerce example PHP MySQL Development!
+Microsoft Access 2010 DBMS!
+Project completed!
+Cost forever being an issue so unable to show online. But is freely available here.
+ dropbox.com. https://www.dropbox.com/s/dei2dwgzm0hvww8/CarpetSuperCentre.accdb?dl=0/ 
+ 
+PHP MySQL DBMS! In-Development! A SAMPLE SITE
+Project in developent see below! code will run just adjust variables to suit you own site.
+Product check out included, but not configured. You would just need to contact your 
+bank manager if this was a real checkout. 
+Products are not real so dont enter your proper credit card details.
 
-Product check out included but not configured for PayPall
-inclusion would be easy enougth. You would just need to contact your 
-bank manager. Products are not real so dont
-enter your proper credit card details enter dummy ones.
 change database settings to match your own. in file see directory
  db_fns.php here!
 ("$result = new mysqli('localhost', 'book_sc', 'password', 'book_sc');")
@@ -12,9 +18,7 @@ change database settings to match your own. in file see directory
 
 Reused code using stepwise refinement from 
 PHP and MySQL Web development by Luke Welling, and Laura Thomson. 
-This is one of my examples on host server. Im new to to this so unsure 
-about javascript menu inclusion, because of links
-if it infringes any rules for repository inclusion let me know.And i will amend.
+
 
 author Ian Hyndman. my email admin@splintercellpro.com
 My Host server details are: 
