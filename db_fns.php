@@ -1,7 +1,7 @@
 <?php
 
 function db_connect() {
-   $result = new mysqli('localhost', 'splinter_book', 'ivh20020656', 'splinter_book_sc');
+   $result = new mysqli('localhost', 'splinter_book', '', 'splinter_book_sc');
    
    if (!$result) {
       return false;
