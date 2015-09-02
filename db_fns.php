@@ -1,5 +1,5 @@
 <?php
-
+//fixed a security issue update
 function db_connect() {
    $result = new mysqli('localhost', 'user', 'password', 'database');
    
